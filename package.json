@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
-    "browserslist": "^4.6.4",
+    "browserslist": "^4.16.5",
     "core-js": "^2.6.5",
     "vant": "^2.0.6",
     "vue": "^2.6.10",
